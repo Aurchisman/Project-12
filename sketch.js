@@ -19,9 +19,9 @@ function setup(){
   path.scale =1.2;
   path.velocityY = 4;
 
-  invisiblePath1 = createSprite(10,400,10,200);
+  invisiblePath1 = createSprite(30,400,10,200);
   invisiblePath1.visible= false;
-  invisiblePath2 = createSprite(390,400,10,200)
+  invisiblePath2 = createSprite(370,400,10,200)
   invisiblePath2.visible = false;  
 
 
